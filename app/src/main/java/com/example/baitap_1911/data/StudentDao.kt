@@ -1,4 +1,4 @@
-package com.ute.studentmvvm.data
+package com.example.baitap_1911.data
 
 import androidx.room.Dao
 import androidx.room.Delete

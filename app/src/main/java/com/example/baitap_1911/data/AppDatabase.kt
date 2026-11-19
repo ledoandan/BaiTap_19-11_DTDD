@@ -6,7 +6,7 @@ import androidx.room.Room
 import androidx.room.RoomDatabase
 import androidx.sqlite.db.SupportSQLiteDatabase
 import com.example.baitap_1911.model.Student
-import com.ute.studentmvvm.data.StudentDao
+
 
 
 @Database(entities = [Student::class], version = 1, exportSchema = false)
