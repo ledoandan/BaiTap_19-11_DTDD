@@ -17,6 +17,7 @@ import com.example.baitap_1911.ui.adapter.StudentAdapter
 import com.example.baitap_1911.viewmodel.StudentViewModel
 
 class StudentListFragment : Fragment(R.layout.fragment_student_list) {
+
     private var _binding: FragmentStudentListBinding? = null
 
     private val viewModel: StudentViewModel by activityViewModels {
